@@ -1,0 +1,80 @@
+<div style="background: linear-gradient(#643D62, #3F2D42);width:300px;margin:auto;padding:1%;height:100%;">
+<div class=container style="background-image:url(https://media.discordapp.net/attachments/559116062210392079/1025521704535068784/wpnnkd.png);width:18rem;height:30em;margin:auto;background-repeat:repeat;border:5px #F2D294 double;">
+ 
+<div class="row" style="width:100%;margin:auto;">
+  <!--===divider=====================-->
+    <div class="col-9" style=
+  "margin:auto;
+  ">
+    <p style="padding:10px;text-align:center;">
+    </p>
+  </div>
+  <!--===image=====================-->
+  <div class="col-10" style="margin:auto;">
+    <div class="col-10" style="margin:auto;width:150px;height:150px;background-color:transparent;border-radius:100px;border:3px double #F2D294;background-size:cover;background-repeat:no-repeat;background-position:center;
+ 
+ 
+    background-image:url(https://media.discordapp.net/attachments/559116062210392079/1025521106179866715/wonk.png);">
+ 
+      </div>
+     
+    </p>
+  </div>
+    <!--===name age and gender=====================-->
+  <div class="col-10" style="margin:auto;color:#3F2D42;padding:10px;font-family:verdana;font-size:110%;font-weight:bolder;text-shadow: -1px -1px 0 #F2D294, 1px -1px 0 #F2D294, -1px 1px 0 #F2D294, 1px 1px 0 #F2D294;">
+    <p style="text-align:center;">
+ 
+ 
+ 
+    Inventory|Transfers 
+ 
+ 
+ 
+    </p>
+  </div>
+    <!--===social media ~ replace usernames with your user name=====================-->
+ 
+    <div class="col-9" style="margin:auto;">
+    <p style="padding:10px;text-align:center;"> 
+ 
+              <!--===instagram=====================-->
+ 
+      <a data-toggle="tooltip" data-placement="bottom"style="font-size:100%;color:#F2D294;width:30px;height:30px;display:inline-block;background-color:#542559;border:#F2D294 1px solid;border-radius:50px;"
+ 
+ 
+        href="https://roseninv.uwu.ai/#inventory" 
+ 
+ 
+        title="Inventory">
+ 
+ 
+ 
+        <i class="fa-regular fa-building-columns"></i></a>
+ 
+ 
+ 
+              <!--===deviantart=====================-->
+ 
+      <a data-toggle="tooltip" data-placement="bottom"style="font-size:100%;color:#F2D294;width:30px;height:30px;display:inline-block;background-color:#542559;border:#F2D294 1px solid;border-radius:50px;"
+ 
+ 
+        href="https://roseninv.uwu.ai/#currency" 
+ 
+ 
+        title="Transfers">
+ 
+ 
+ 
+        <i class="fa-regular fa-arrows-rotate"></i></a>
+ 
+  </div>
+      
+        <!--===credit ~ don't remove please<3 =====================-->
+    <div class="col-9" style=
+  "margin:auto;
+  ">
+    <p style=margin:auto;text-align:center;><a style="text-align:center;" href="/netledevil" data-toggle="tooltip" data-placement="right" title="code by netledevil"><img style="margin:auto;" src="https://static.tumblr.com/rltvkjt/kI1lmr3nc/dialogo_heart.gif"></a></p>
+  </div>
+</div>
+</div>
+</div>
